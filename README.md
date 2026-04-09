@@ -1,6 +1,7 @@
 # prompt-history
 
-Minimal Chrome extension that lets you navigate your submitted prompts with the up and down arrow keys, exactly like a terminal. Works on ChatGPT.
+Minimal Chrome extension that lets you navigate your submitted prompts with the up and down arrow keys, like a terminal. <br>Works on ChatGPT.<br>
+![Demo](https://github.com/user-attachments/assets/d8300650-1c80-4edf-ad42-336f6390df50)
 
 ## Install
 
